@@ -4,7 +4,7 @@
 Ran Sogorb
 Eva Villalba
 
-##Pasos de la práctica
+## Pasos de la práctica
 En github, tendréis que crear un repositorio público y trabajar los dos en él.
 Añadir un fichero .gitignore que ignore ficheros log, .class, .zip, jar.... y además, tampoco debéis de tener en el repositorio ficheros .env
 En dicho repositorio, deberéis crear un proyecto en java que deberá contener un sencillo fichero main con un 'hello world'.
