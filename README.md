@@ -1,7 +1,5 @@
 # Pr-ctica-T18-19-20
 
-# Pr-ctica-T18-19-20
-
 ## Autores
 Ran Sogorb
 Eva Villalba
